@@ -1,2 +1,2 @@
-# bull_and_cows
+#Bulls and Cows
 Ruby implementation of the Bull and Cows game
